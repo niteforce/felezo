@@ -1,0 +1,9 @@
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\bin\Debug\felezo.exe.config
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\bin\Debug\felezo.exe
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\bin\Debug\felezo.pdb
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\obj\Debug\felezo.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\obj\Debug\felezo.exe
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo_Dani\felezo\obj\Debug\felezo.pdb
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo\felezo\bin\Debug\felezo.exe.config
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo\felezo\obj\Debug\felezo.exe
+C:\Users\Dani\Documents\Visual Studio 2015\Projects\felezo\felezo\obj\Debug\felezo.pdb
